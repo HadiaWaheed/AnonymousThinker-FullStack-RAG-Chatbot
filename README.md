@@ -1,4 +1,4 @@
-# 📚 Comparative Religion AI Assistant
+# 📚 AnonymousThinker-FullStack-RAG-Chatbot
 
 An AI-powered **RAG (Retrieval-Augmented Generation)** assistant built on top of a curated collection of comparative religion and Islamic books.
 
